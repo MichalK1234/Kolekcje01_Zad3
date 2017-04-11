@@ -1,4 +1,4 @@
-package com.kozerski;
+package com.zad3;
 import org.hamcrest.Matchers;
 import org.junit.Assert;
 import org.junit.Test;

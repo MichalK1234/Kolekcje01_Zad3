@@ -1,4 +1,4 @@
-package com.kozerski;
+package com.zad3;
 
 
 import java.util.ArrayList;
